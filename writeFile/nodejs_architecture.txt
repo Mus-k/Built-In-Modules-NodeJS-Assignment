@@ -1,0 +1,3 @@
+
+Node.js Architecture:
+Node.js is built on the V8 JavaScript runtime and follows an event-driven, non-blocking I/O model, making it lightweight and efficient for building scalable network applications.
